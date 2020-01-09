@@ -5,3 +5,8 @@
 
 ## 笔记空间
 
+- corejava源码
+  - 官网
+    - http://horstmann.com/corejava/
+    - [11th Edition](http://horstmann.com/corejava/corejava.zip) | [10th Edition](http://horstmann.com/corejava/corejava10.zip) | [9th Edition](http://horstmann.com/corejava/corejava9.zip) | [8th Edition](http://horstmann.com/corejava/corejava8.zip) | [7th edition](http://horstmann.com/corejava/corejava7.zip)
+  - git
